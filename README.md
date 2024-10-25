@@ -652,7 +652,7 @@ Name           | Address
 [WOOD$ Credits](https://tonviewer.com/0:a476dd3b954a14b554000b85ca629a42833a5d2013861c2d7b67490f87e2417e) | EQCkdt07lUoUtVQAC4XKYppCgzpdIBOGHC17Z0kPh-JBfmXZ
 [WTON](https://tonviewer.com/0:d0a1ce4cdc187c79615ea618bd6c29617af7a56d966f5a192a768f345ee63fd2) | EQDQoc5M3Bh8eWFephi9bClhevelbZZvWhkqdo80XuY_0qXv
 [Wakeup DAO Token](https://tonviewer.com/0:10125077b6b3308f4c029d55586059c9adba7008efcd5c3693ba3f5a62280ba2) | EQAQElB3trMwj0wCnVVYYFnJrbpwCO_NXDaTuj9aYigLovXw
-[Wallet Exchanger](https://tonviewer.com/0:6d50a3db84004f62d96d88a580e78eece19849e70647bd55757b27d5eec1321a) | EQBtUKPbhABPYtltiKWA547s4ZhJ5wZHvVV1eyfV7sEyGs2J
+[Wallettt Exchanger](https://tonviewer.com/0:6d50a3db84004f62d96d88a580e78eece19849e70647bd55757b27d5eec1321a) | EQBtUKPbhABPYtltiKWA547s4ZhJ5wZHvVV1eyfV7sEyGs2J
 [Web3 TON Token](https://tonviewer.com/0:6d70be0903e3dd3e252407cbad1dca9d69fb665124ea74bf19d4479778f2ed8b) | EQBtcL4JA-PdPiUkB8utHcqdaftmUSTqdL8Z1EeXePLti_nK
 [Weed coin - cannabis meme coin on TON](https://tonviewer.com/0:9f12c892308fbd98456a16f035037c67eeae0315861cfd1ab26508ef7880ff78) | EQCfEsiSMI-9mEVqFvA1A3xn7q4DFYYc_RqyZQjveID_eG2I
 [What The](https://tonviewer.com/0:91cb1d2499a76ad94719bbb18fea11fdb58b6a582e11e474e4eae2a5a1a8a7ba) | EQCRyx0kmadq2UcZu7GP6hH9tYtqWC4R5HTk6uKloainuqoB
